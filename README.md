@@ -1,5 +1,7 @@
 # RgBotClient-V1 🤖💼
 
+<img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/cb8a3c76-c453-4fe3-b476-58a6996848cb" />
+
 Welcome to RgBotClient-V1, your all-in-one solution for managing Discord bots effortlessly! RgBotClient-V1 is a versatile web application designed to simplify the process of deploying, configuring, and managing Discord bots. Whether you're a seasoned bot developer or just getting started, RgBotClient-V1 has everything you need to streamline your bot management tasks. Let's dive in! 🚀
 
 ## Features ✨
